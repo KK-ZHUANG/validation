@@ -1,0 +1,17 @@
+{
+    "name": "kkandmore/validation",
+    "description": "参数校验工具",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KK",
+            "email": "kkandmore@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "KKandmore\\Validation\\": "src"
+        }
+    },
+    "require": {}
+}
